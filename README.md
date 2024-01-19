@@ -22,11 +22,9 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
+Here's a walkthrough of implemented features: https://i.imgur.com/JgEwJa9.gif
 
-<img src='https://imgur.com/JgEwJa9.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-You can find the GIF which is added to this repo or view it online through the link.
+You can find the GIF in this repo or view it online through the link.
 
 GIF created with LiceCap: https://www.cockos.com/licecap/
 
