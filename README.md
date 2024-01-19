@@ -24,18 +24,15 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/JgEwJa9' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
+You can find the GIF which is added to this repo or view it online through the link.
+
 GIF created with LiceCap: https://www.cockos.com/licecap/
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
 
-Dynamic Data Handling: Dealing with dyanmic content updates, like filtering games or showing the top contributions for a specific game was difficult for me. I did not have much exposure to DOM (Document Object Model) and in order to have succesful data manipulation use of JavaScript functions and DOM manipluation was crucial. For example, in Challenge 5, when implementing functions to filter funded and unfunded games, to dynamically update games according to the user clicks required careful handling of data manipulation so that erros don't arise and the correct games are showcased in the "Our Games" section. CodePath did a great job by providing clear steps I could follow to achieve that results. Their description of the DOM as nodes, by giving a diagram to explain it further, and by giving links to other materials I can use really helped clear my concpets and put them into practice during this project. Another challenge that I faced was implementing the dispaly of the top 2 funded games. The destructing assignment and the spread operator were essential to grab and display the top 2 games, which again required knowlege of DOM manipulation. The help provided by CodePath allowed me to succesfully follow the steps and clearly understand how each component works, and therfore played a crucial role in overcoming this challenge.
+Dynamic Data Handling: Dealing with dynamic content updates, like filtering games or showing the top contributions for a specific game was difficult for me. I did not have much exposure to DOM (Document Object Model) and in order to have successful data manipulation use of JavaScript functions and DOM manipulation was crucial. For example, in Challenge 5, when implementing functions to filter funded and unfunded games to dynamically update games according to the user clicks required careful handling of data manipulation so that errors don't arise and the correct games are showcased in the "Our Games" section. CodePath did a great job by providing clear steps I could follow to achieve those results. Their description of the DOM as nodes/trees, by giving a diagram to explain it further, and by providing links to other materials I can use helped clear my concepts and put them into practice during this project. Another challenge that I faced was implementing the display of the top 2 funded games. The destructing assignment and the spread operator were essential to grab and display the top 2 games, which again required knowledge of DOM manipulation. The help provided by CodePath allowed me to successfully follow the steps and clearly understand how each component works and therefore played a crucial role in overcoming this challenge.
 
 ## License
 
