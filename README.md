@@ -24,6 +24,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features: 
 
+![walkthrough-video](https://github.com/usaeedcs/web102_prework/assets/85361194/01dbfa47-58ae-4f73-99f8-bea2fda55d4d)
+
 You can find the GIF in this repo titled "walkthrough-video" or view it online through this link: https://imgur.com/a/Dx8Sojz.gif
 
 GIF created with LiceCap: https://www.cockos.com/licecap/
