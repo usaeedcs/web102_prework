@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [x] The Our Games section has a search functionality where the user search for a specific game
+* [x] The Our Games section has a search functionality where the user searches for a specific game
 * [x] The Game Cards have more information on them such as Goal, Pledged, and Backers, allowing for people to have more information about each game.
 
 ## Video Walkthrough
@@ -26,7 +26,7 @@ Here's a walkthrough of implemented features:
 
 ![walkthrough-video](https://github.com/usaeedcs/web102_prework/assets/85361194/01dbfa47-58ae-4f73-99f8-bea2fda55d4d)
 
-You can find the GIF in this repo titled "walkthrough-video" or view it online through this link: https://imgur.com/a/Dx8Sojz.gif
+You can find the GIF in this repo titled "walkthrough-video" or view it online through this link: https://imgur.com/UJCq747
 
 GIF created with LiceCap: https://www.cockos.com/licecap/
 
