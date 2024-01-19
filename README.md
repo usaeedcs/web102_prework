@@ -1,8 +1,8 @@
-# WEB102 Prework - SeaMonster Crowdfunding Website
+# WEB102 Prework - Sea Monster Crowdfunding Website
 
 Submitted by: Usman Saeed
 
-SeaMonster Crowdfunding is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+Sea Monster Crowdfunding is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: 9 hours spent in total
 
@@ -22,11 +22,9 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features: https://i.imgur.com/JgEwJa9.gif
+Here's a walkthrough of implemented features: 
 
-![Video Walkthrough](web102_prework\walkthrough.gif)
-
-You can find the GIF in this repo or view it online through the link.
+You can find the GIF in this repo titled "walkthrough-video" or view it online through this link: https://imgur.com/a/Dx8Sojz.gif
 
 GIF created with LiceCap: https://www.cockos.com/licecap/
 
