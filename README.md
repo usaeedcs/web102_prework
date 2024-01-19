@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/JgEwJa9' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/JgEwJa9.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 You can find the GIF which is added to this repo or view it online through the link.
 
@@ -36,7 +36,7 @@ Dynamic Data Handling: Dealing with dynamic content updates, like filtering game
 
 ## License
 
-    Copyright [2024] [Isabel Gwara (CodePath)]
+    Copyright [yyy] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
