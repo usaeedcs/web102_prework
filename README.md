@@ -1,23 +1,24 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - SeaMonster Crowdfunding Website
 
-Submitted by: **Your Name Here**
+Submitted by: Usman Saeed
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+SeaMonster Crowdfunding is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: 7 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [x] The introduction section explains the background of the company and how many games remain unfunded.
+* [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] The Our Games section has a search functionality where the user search for a specific game
+* [x] The Game Cards have more information on them such as Goal, Pledged, and Backers, allowing for people to have more information about each game.
 
 ## Video Walkthrough
 
@@ -26,7 +27,7 @@ Here's a walkthrough of implemented features:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with LiceCap: https://www.cockos.com/licecap/
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -34,11 +35,11 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Dynamic Data Handling: Dealing with dyanmic content updates, like filtering games or showing the top contributions for a specific game was difficult for me. I did not have much exposure to DOM (Document Object Model) and in order to have succesful data manipulation use of JavaScript functions and DOM manipluation was crucial. For example, in Challenge 5, when implementing functions to filter funded and unfunded games, to dynamically update games according to the user clicks required careful handling of data manipulation so that erros don't arise and the correct games are showcased in the "Our Games" section. CodePath did a great job by providing clear steps I could follow to achieve that results. Their description of the DOM as nodes, by giving a diagram to explain it further, and by giving links to other materials I can use really helped clear my concpets and put them into practice during this project. Another challenge that I faced was implementing the dispaly of the top 2 funded games. The destructing assignment and the spread operator were essential to grab and display the top 2 games, which again required knowlege of DOM manipulation. The help provided by CodePath allowed me to succesfully follow the steps and clearly understand how each component works, and therfore played a crucial role in overcoming this challenge.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Isabel Gwara (CodePath)]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

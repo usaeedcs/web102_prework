@@ -179,3 +179,25 @@ firstGameContainer.appendChild(firstGameElement);
 const secondGameElement = document.createElement("div");
 secondGameElement.innerHTML = `<h2>${secondGame.name}</h2>`;
 secondGameContainer.appendChild(secondGameElement);
+
+//Customization: Implement search functionality
+
+// grab the search input element
+const searchInput = document.getElementById("search-input");
+
+// add an input event listener to trigger the search on input change
+searchInput.addEventListener("input", performSearch);
+
+// function to filter games based on search input
+function performSearch() {
+    const searchTerm = searchInput.value.toLowerCase();
+
+    // filter games based on the search term
+    const filteredGames = GAMES_JSON.filter(game =>
+        game.name.toLowerCase().includes(searchTerm)
+    );
+
+    // display the filtered games
+    deleteChildElements(gamesContainer);
+    addGamesToPage(filteredGames);
+}
